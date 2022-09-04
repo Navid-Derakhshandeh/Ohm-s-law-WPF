@@ -1,0 +1,38 @@
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.exe.config
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.exe
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.pdb
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\MainWindow.g.cs
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\App.g.cs
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power_MarkupCompile.cache
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power_MarkupCompile.lref
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\MainWindow.baml
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.g.resources
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance_Current_Volatge_Power.Properties.Resources.resources
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.csproj.GenerateResource.cache
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.exe
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.pdb
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.exe.manifest
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.application
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.exe.manifest
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.application
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.exe.config
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.exe.manifest
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.application
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.exe
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\bin\Debug\Resistance-Current-Volatge-Power.pdb
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\MainWindow.g.cs
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\App.g.cs
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power_MarkupCompile.cache
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power_MarkupCompile.lref
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\MainWindow.baml
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.g.resources
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance_Current_Volatge_Power.Properties.Resources.resources
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.csproj.GenerateResource.cache
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.exe.manifest
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.application
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.exe
+C:\Users\N.D\Desktop\RCVP\Resistance-Current-Volatge-Power with WPF\Resistance-Current-Volatge-Power\obj\Debug\Resistance-Current-Volatge-Power.pdb
