@@ -1,0 +1,14 @@
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\bin\Debug\Ohm's Law WinForm.exe.config
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\bin\Debug\Ohm's Law WinForm.exe
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\bin\Debug\Ohm's Law WinForm.pdb
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm's Law WinForm.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm_s_Law_WinForm.Form1.resources
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm_s_Law_WinForm.Properties.Resources.resources
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm's Law WinForm.csproj.GenerateResource.cache
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm's Law WinForm.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm's Law WinForm.exe
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm's Law WinForm.pdb
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\bin\Debug\Ohm's Law WinForm.exe.manifest
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\bin\Debug\Ohm's Law WinForm.application
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm's Law WinForm.exe.manifest
+C:\Users\N.D\Desktop\Test4\Ohm's Law WinForm\Ohm's Law WinForm\obj\Debug\Ohm's Law WinForm.application
